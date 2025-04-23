@@ -39,6 +39,10 @@ public class calculator2 {
         return result;
     }
 
+    //게터: 저장된 계산 결과를 읽어오기
+    public List<Double> getResult1() {
+        return result1;
+    }
 
     //세터: 값 저장하고 변경하기
     public void setA (int a){

@@ -59,6 +59,7 @@ public class App2 {
             } catch (ArithmeticException e) {
                 System.out.println("에러: " + e.getMessage());
             }
+            System.out.println("지금까지의 계산 결과: " + cal.getResult1());
 
 
             //계산을 더 진행할지 끝낼지 확인
