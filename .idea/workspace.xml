@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1733cf1-176b-470b-8d2a-a6ebaee8c8e3" name="변경" comment="스캔 설정">
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv1/App1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/App2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/add.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/ca2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/calculator2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv1/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv2/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv2/calculator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a1733cf1-176b-470b-8d2a-a6ebaee8c8e3" name="변경" comment="스캔 설정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +26,15 @@
     &quot;assignee&quot;: &quot;kkar00&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/kkar00/calculator.git&quot;,
-    &quot;accountId&quot;: &quot;f0f1e574-4fb4-4d42-8462-eabd57a4640f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kkar00/calculator.git",
+    "accountId": "d919a2fb-b8c4-4c4f-895b-9d3c87b019ad"
   }
-}</component>
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -56,7 +48,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "login",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ASD/IdeaProjects/java-course",
@@ -95,7 +87,7 @@
       <workItem from="1744943889237" duration="12150000" />
       <workItem from="1745211794115" duration="8902000" />
       <workItem from="1745300728552" duration="11615000" />
-      <workItem from="1745366599688" duration="5020000" />
+      <workItem from="1745366599688" duration="5338000" />
     </task>
     <task id="LOCAL-00001" summary="스캔 설정">
       <option name="closed" value="true" />
@@ -113,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744856577626</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="스캔 설정">
+      <option name="closed" value="true" />
+      <created>1745371843739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745371843739</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

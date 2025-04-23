@@ -7,10 +7,9 @@ public class App2 {
         Scanner sc = new Scanner(System.in);
         calculator2 cal = new calculator2();
 
-        int a = 0;
-        int b = 0;
-        int result;
-        char op = ' ';
+        int a;
+        int b;
+        char op;
         String St;
 
         while (true) {
