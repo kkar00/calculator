@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1733cf1-176b-470b-8d2a-a6ebaee8c8e3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="a1733cf1-176b-470b-8d2a-a6ebaee8c8e3" name="변경" comment="스캔 설정">
+      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv1/App1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/App2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/ca2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator/Lv2/calculator2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv1/App1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv2/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv2/calculator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kkar00"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kkar00&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kkar00/calculator.git",
-    "accountId": "f0f1e574-4fb4-4d42-8462-eabd57a4640f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kkar00/calculator.git&quot;,
+    &quot;accountId&quot;: &quot;f0f1e574-4fb4-4d42-8462-eabd57a4640f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2vplYQG6KCdb12cR73p13vHaijF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,17 +55,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "login",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ASD/IdeaProjects/java-course/src/chapter1/method",
+    "last_opened_file_path": "C:/Users/ASD/IdeaProjects/java-course",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/ASD/IdeaProjects/calculator/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.App1.executor": "Run",
+    "애플리케이션.App2.executor": "Run",
+    "애플리케이션.add.executor": "Run",
+    "애플리케이션.calculator.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -78,8 +90,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744849945472</updated>
-      <workItem from="1744849946614" duration="5696000" />
+      <workItem from="1744849946614" duration="6235000" />
+      <workItem from="1744856781438" duration="19043000" />
+      <workItem from="1744943889237" duration="12150000" />
+      <workItem from="1745211794115" duration="8902000" />
+      <workItem from="1745300728552" duration="11615000" />
+      <workItem from="1745366599688" duration="5020000" />
     </task>
+    <task id="LOCAL-00001" summary="스캔 설정">
+      <option name="closed" value="true" />
+      <created>1744856370481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744856370481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="스캔 설정">
+      <option name="closed" value="true" />
+      <created>1744856577626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744856577626</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="스캔 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="스캔 설정" />
   </component>
 </project>
