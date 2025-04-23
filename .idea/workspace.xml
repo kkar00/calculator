@@ -58,7 +58,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/ASD/IdeaProjects/calculator/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.App1.executor": "Run",
     "애플리케이션.App2.executor": "Run",
@@ -87,7 +87,7 @@
       <workItem from="1744943889237" duration="12150000" />
       <workItem from="1745211794115" duration="8902000" />
       <workItem from="1745300728552" duration="11615000" />
-      <workItem from="1745366599688" duration="5338000" />
+      <workItem from="1745366599688" duration="5773000" />
     </task>
     <task id="LOCAL-00001" summary="스캔 설정">
       <option name="closed" value="true" />
@@ -113,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745371843739</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="스캔 설정">
+      <option name="closed" value="true" />
+      <created>1745372209819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745372209819</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
